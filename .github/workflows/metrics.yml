@@ -1,0 +1,42 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: gRain-is-grainy
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: America/New_York
+          config_twemoji: yes
+          repositories: 500
+          plugin_achievements: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 20
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_licenses: yes
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
+          plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
