@@ -12,10 +12,8 @@
 
 ---
 
-## Public Projects
-
 <details>
-<summary><b>View projects</b></summary>
+<summary><b>Public Projects</b></summary>
 <br>
 
 ### [RateMyHusky](https://github.com/gRain-is-grainy/RateMyHusky) — [ratemyhusky.com](https://ratemyhusky.com)
@@ -32,10 +30,8 @@ A full-stack platform for Northeastern students to discover, search, and compare
 
 ---
 
-## Tech Stack
-
 <details>
-<summary><b>View full tech stack</b></summary>
+<summary><b>Tech Stack</b></summary>
 <br>
 
 **Languages**\
