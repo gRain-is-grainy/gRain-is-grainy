@@ -22,7 +22,6 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: America/New_York
           config_twemoji: yes
-          config_padding: 0, 0, 25%
           repositories: 500
           plugin_achievements: no
           plugin_isocalendar: yes
@@ -34,7 +33,3 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 0
