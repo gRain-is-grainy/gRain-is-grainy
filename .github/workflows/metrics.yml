@@ -35,8 +35,4 @@ jobs:
           plugin_licenses: yes
           plugin_licenses_legal: yes
           plugin_licenses_ratio: yes
-          plugin_lines: yes
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 0
+          plugin_lines: no
