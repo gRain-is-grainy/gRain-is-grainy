@@ -1,6 +1,8 @@
 # Hey, I'm Benjamin Lee
 **CS @ Northeastern University (2029) | New York**
 
+RateMyHusky Milestone(10k New Users): 9/10/2026
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-benjaminlee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benisjamin-lee/)
 [![Email](https://img.shields.io/badge/Email-lee.benjami@northeastern.edu-C5172A?style=flat&logo=gmail&logoColor=white)](mailto:lee.benjami@northeastern.edu)
 
@@ -17,7 +19,7 @@
 <br>
 
 ### [RateMyHusky](https://github.com/gRain-is-grainy/RateMyHusky) — [ratemyhusky.com](https://ratemyhusky.com)
-A full-stack platform for Northeastern students to discover, search, and compare professors. Within 1st week of official launch, we gained 35k views with 2.5k new users.
+Founded a full-stack platform for Northeastern students to discover, search, and compare professors. Within 1st week of official launch, we gained 35k views with 2.5k new users.
 
 - Find and compare professors side by side
 - See 1.7M+ RMP and TRACE ratings, scores, and comments in one place
