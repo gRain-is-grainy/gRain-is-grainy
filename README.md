@@ -1,5 +1,5 @@
 # Hey, I'm Benjamin Lee
-**CS @ Northeastern University (2029) | New York**
+**CS @ Northeastern University (2029) | New York City**
 
 RateMyHusky Milestone(10k New Users): 9/10/2026
 
